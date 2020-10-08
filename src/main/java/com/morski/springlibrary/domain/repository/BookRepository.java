@@ -1,7 +1,7 @@
 package com.morski.springlibrary.domain.repository;
 
 import com.morski.springlibrary.domain.Book;
-import com.morski.springlibrary.utils.Ids;
+import com.morski.springlibrary.util.Ids;
 import org.springframework.stereotype.Repository;
 
 import java.util.Collection;

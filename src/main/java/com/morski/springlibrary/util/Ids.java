@@ -1,4 +1,4 @@
-package com.morski.springlibrary.utils;
+package com.morski.springlibrary.util;
 
 import java.util.Set;
 
